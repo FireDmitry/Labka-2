@@ -11,8 +11,4 @@ int main()
 	z = x + y;
 	cout << x << "+" << y << "=" << z << endl;
 	return 0;
-
-
-
-
 }
